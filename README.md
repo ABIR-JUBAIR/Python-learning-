@@ -1,2 +1,3 @@
-# Python-learning-
-My python learning journey 
+#day1python
+name = "abir"
+print(name)
