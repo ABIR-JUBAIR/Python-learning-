@@ -1,3 +1,1 @@
-
-name = "abir"
-print(name)
+#first_python_code
